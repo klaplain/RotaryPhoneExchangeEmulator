@@ -1,2 +1,6 @@
-This directory contains the code that runs on ESP32
+ following librarThis directory contains the code that runs on ESP32
 The code was developed in the Arduino IDE
+
+Needs following libraries
+#include <HardwareSerial.h>
+#include <IRremote.hpp> 
